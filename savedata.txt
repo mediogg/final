@@ -1,0 +1,49 @@
+SAVE DATA
+job
+Warrior
+5
+7
+1
+4
+5
+2
+move
+Sword Slash
+20
+2
+attack
+0
+damage
+end
+endl
+item
+Ring of Healing
+10
+VILLAGE
+infinite
+heal
+endl
+item
+Yellow Fish
+20
+OCEAN
+infinite
+immobilize
+endl
+item
+Bob
+100
+VILLAGE
+infinite
+damage
+endl
+player
+Crim
+Warrior
+0
+endl
+player
+Corv
+Warrior
+0
+endl
